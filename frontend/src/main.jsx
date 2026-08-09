@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import './style.css';
+import './admin.css';
 
 const seedProducts = [
   { id: 1, name: 'Digital Thermometer', price: 249, oldPrice: 299, category: 'Health Devices', icon: '🌡️', rating: 4.8, tag: 'Best Seller', stock: 24, image: '' },

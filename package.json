@@ -1,0 +1,1 @@
+{"name":"ayushstore","private":true,"version":"1.0.0","type":"module","scripts":{"build":"cd frontend && npm install && npm run build"},"dependencies":{"express":"^5.1.0","mongoose":"^8.18.0","cors":"^2.8.5","dotenv":"^16.4.7","helmet":"^8.1.0","express-rate-limit":"^8.0.1","morgan":"^1.10.0"}}
